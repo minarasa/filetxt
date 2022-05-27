@@ -1,0 +1,3 @@
+menggunakan github pertama kali
+membuat react js untuk mengakses api
+perbaharui 
